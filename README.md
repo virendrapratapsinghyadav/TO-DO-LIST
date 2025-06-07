@@ -1,16 +1,37 @@
 
-# PROJECT: TO-DO-LIST
+# TO-DO-LIST
+A simple and interactive TO-DO LIST application built with vanilla JavaScript, HTML, and CSS to help you manage daily tasks efficiently.
 
 ## Live Demo
 [View on GitHub Pages](https://virendrapratapsinghyadav.github.io/TO-DO-LIST/)
 
-# Overview of the Project
+## Features
+- Add Tasks: Enter a new task and add it to your list.
+- Mark Tasks as Complete: Toggle tasks between completed and not completed.
+- Delete Individual Tasks: Remove specific tasks from the list.
+- Delete All Tasks: Clear the entire task list with a single click.
+- Delete Completed Tasks: Remove only the tasks marked as completed
+- Task Counters: Displays total tasks and completed tasks count dynamically.
+- Keyboard Support: Add tasks by pressing the Enter key.
 
-TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
+---
 
-ABOUT THIS PROJECT-:
+## Screenshots
 
-  1. In this project i have created a simple to-do app using HTML CSS and JavaScript.
-  2. Built a To-Do List application to make a list of daily works written down in one place.
-  3. Implemented functionalities like add task, remove task, filter tasks and also mark tasks as done.
+![Before adding](img/add.png)
+![After adding](img/done.png)
+
+## Installation & Usage
+1.Clone the repository: git clone https://github.com/virendrapratapsinghyadav/TO-DO-LIST.git   
+2.Open index.html in any modern browser.   
+3.Start adding, completing, deleting, and filtering tasks.
+
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- 
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
  
